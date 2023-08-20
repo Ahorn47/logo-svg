@@ -1,6 +1,8 @@
-# logo-svg
+# LOGO-SVG
 
+![Untitled_ Aug 20, 2023 5_00 PM (1)](https://github.com/Ahorn47/logo-svg/assets/131202726/1e43fc1e-bc91-48a1-aa1f-7f07d13f470e)
 
+file:///C:/Users/alexh/OneDrive/Desktop/logo-svg/logo.svg
 
 ## User Story
 AS a freelance web developer
